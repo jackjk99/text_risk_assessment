@@ -1,0 +1,5 @@
+openai
+streamlit
+openpyxl
+python-dotenv
+XlsxWriter
